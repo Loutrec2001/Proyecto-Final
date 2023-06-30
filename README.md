@@ -104,16 +104,37 @@ Documentación de instalación y uso.
 - Gestor de proyecto: encargado de la coordinación del equipo, planificación y seguimiento del proyecto.
 
 
-** ( ver cronograma gantt) **
 
-((Cronograma general - Gantt:
-Crearemos un diagrama de Gantt que incluya las tareas específicas, las dependencias entre ellas y las fechas estimadas de inicio y finalización de cada una.
+
+Cronograma general - Gantt:
+
+
+
 
 Análisis preliminar de calidad de datos:
 Realizaremos un análisis detallado de los datos sísmicos disponibles, incluyendo metadatos como fuentes, confiabilidad, representación de cada columna, tipos de datos, método de adquisición y fechas de adquisición y actualización.
 
-https://www.kaggle.com/code/pierrejeanne/earthquakes-1965-2016-eda-and-ts-prediction/notebook))
 
-Github Proyecto: 
+# Github Proyecto: 
 
 https://github.com/Loutrec2001/Proyecto-Final.git
+
+# Presentación:
+
+https://docs.google.com/presentation/d/1yftWE6cM3cVsvGFkl_Do_KXYw_7c3Ty8qFXDasGT68I/edit?usp=sharing
+
+# Google Colab
+
+https://colab.research.google.com/drive/1whjtXBgahRkZjdIBZhuaswbKpxfXwNuZ#scrollTo=TnwmcuRvhW7U
+
+# Diagrama de Grantt
+
+https://app.ganttpro.com/shared/token/9bcd47b0dba3bb6f54b27ebc9bceba689b613976f4e280cd41940c72e9917846/1158336
+
+## Integrantes del equipo
+
+* Ana Lucia Muzzo Rangil
+* Edward E. Guzmán González
+* Israel Andrés Nieves
+* Jose Gabriel Casanova
+* Kevin Bonilla.
