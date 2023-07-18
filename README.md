@@ -33,7 +33,7 @@ en el modelo machine learning
 
 # **Alcance del trabajo**
 
-Recopilación y análisis de datos sísmicos de fuentes confiables y actualizadas de los paises de Estados Unidos, Japón, México, Chile y Perú.
+Recopilación y análisis de datos sísmicos de fuentes confiables y actualizadas de los paises de Estados Unidos, Japón, México y Perú.
 
 Al mismo tiempo desarrollaremos algoritmos y modelos para detectar y clasificar sismos de acuerdo al grado de magnitud.
 
@@ -54,31 +54,34 @@ Meta: Representar un aumento del 4% semestral en la cobertura geográfica de la 
 Objetivo: Ampliar el análisis de variables relacionadas con los sismos.
 Meta: Incrementar en un 10% semestral la cantidad de variables analizadas.
 
-3. Rendimiento de la plataforma:
-Objetivo: Mejorar el rendimiento de la plataforma.
-Meta: Reducir el tiempo de respuesta en un 5% para brindar una experiencia más rápida a los usuarios.
+3. Emisión de alerta:
+Objetivo: Mejorar el tiempo de ejecucion desde que se genera el codigo de mensaje y se dispara el sistema de alerta a traves de mensajes via telegram.
+Meta: Reducir el tiempo de ejecucion a un 50 seg para brindar una experiencia más rápida a los usuarios.
 
 4. Alcance poblacional de usuarios de la app:
-Objetivo: Aumentar la cantidad de usuarios de la aplicación.
+Objetivo: Aumentar la cantidad de registros en nuestro canal de telegram.
 Meta: Incrementar en un 5% semestral el número de usuarios de la app entre la población objetivo.
 
-5. Interacción de usuarios con la plataforma en un período de tiempo determinado:
-Objetivo: Aumentar la participación y el compromiso de los usuarios con la plataforma web.
-Meta: Aumentar en un 20% el número de usuarios activos en la plataforma web en los próximos tres meses. Esto puede incluir usuarios registrados, usuarios que inician sesión o visitantes únicos.
+5. Defunciones por repuesta tardia:
+Objetivo: mejorar el tiempo de respuesta de participación y compromiso de los organimos de socorros frente a los desastres ocurridos.
+Meta: Dsiminuir en un xx% el número de defunciones en los pròximos 5 años teniendo en cuanta el analisis de peligrosidad en determinadas zonas y el tiempo de respuesta.
 
 # **Herramientas usadas**
 
 - Python = Extracción, EDA, Transformación, carga a base de datos (inicial e incremental). Se utilizarán librerías para agilizar los procesos de conexión a base de datos, preparación de modelos de ML y gráficos de geolocalización.
 
-- Python y sus librerías = Para ETL automatizado (incluye conexión a BD).
+- Python y sus librerías y Sql = Para ETL automatizado (incluye conexión a BD).
 
 - Github = Repositorio de GITHUB y control de versiones.
 
 - Power BI = Presentación de tablero.
 
-- Mysql = Creacion de Data Warehouse.
+- Azure Synapse Analytics = Creacion de Data Warehouse.
 
 - Ambiente nube = Azure.
+
+- Azure DataBricks, Azure Synapse Analytics, Azure Data Factory, Azure File Storage. 
+
 
 
 # **Metodología de trabajo**
@@ -103,17 +106,9 @@ Documentación de instalación y uso.
 
 - Gestor de proyecto: encargado de la coordinación del equipo, planificación y seguimiento del proyecto.
 
+## **Análisis preliminar de calidad de datos**:
 
-
-
-Cronograma general - Gantt:
-
-
-
-
-Análisis preliminar de calidad de datos:
 Realizaremos un análisis detallado de los datos sísmicos disponibles, incluyendo metadatos como fuentes, confiabilidad, representación de cada columna, tipos de datos, método de adquisición y fechas de adquisición y actualización.
-
 
 # Github Proyecto: 
 
@@ -127,9 +122,6 @@ https://docs.google.com/presentation/d/1yftWE6cM3cVsvGFkl_Do_KXYw_7c3Ty8qFXDasGT
 
 https://colab.research.google.com/drive/1whjtXBgahRkZjdIBZhuaswbKpxfXwNuZ#scrollTo=TnwmcuRvhW7U
 
-# Diagrama de Grantt
-
-https://app.ganttpro.com/shared/token/9bcd47b0dba3bb6f54b27ebc9bceba689b613976f4e280cd41940c72e9917846/1158336
 
 ## Integrantes del equipo
 

@@ -1,0 +1,7 @@
+﻿Fase_Fecha,Tipo_Fase,Finalidad,Tiempo después del sismo,Tiempo Min,Tiempo Max,Diferencia
+2:30:00 AM,Impacto ,Autoayuda e informacion de evento ,0 - 5 min ,0,5,5
+2:54:00 AM,Activacion e intervencion inicial ,"Preparacion para la accion, estabilizacion y activacion de planes ",hasta 24 min ,5,24,19
+6:30:00 AM,Activacion e intervencion inicial ,"Preparacion para la accion, estabilizacion y activacion de planes ",10 min - 4 horas ,24,240,216
+2:30:00 AM,Activacion e intervencion inicial ,salvaguarda de la vida y salud de la poblacion ,4  - 24 horas ,240,1440,1200
+2:30:00 AM,Primera respuesta ,Salvar vidas  ,8 - 72 horas ,480,4320,3840
+2:30:00 AM,Respuesta complementaria ,Brindar asistencia humanitaria a la poblacion danmificada ,24 horas a más ,1440,5760,4320
