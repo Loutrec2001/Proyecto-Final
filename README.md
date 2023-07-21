@@ -115,9 +115,13 @@ Se reorganizan las variables, se depuran las bases se crea una base nueva unific
 
 https://github.com/Loutrec2001/Proyecto-Final.git
 
-# Presentación:
+# Presentación Tecnológica:
 
 https://docs.google.com/presentation/d/1yftWE6cM3cVsvGFkl_Do_KXYw_7c3Ty8qFXDasGT68I/edit?usp=sharing
+
+# Presentación Final
+
+https://docs.google.com/presentation/d/1FaIUXzxlxIk9qh0kynJ3Lt4HKPI06EBq/edit?usp=sharing&ouid=103189885318330115740&rtpof=true&sd=true
 
 # Página Web de la Aplicación
 
