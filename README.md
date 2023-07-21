@@ -83,7 +83,6 @@ Meta: Dsiminuir en un xx% el número de defunciones en los pròximos 5 años ten
 - Azure DataBricks, Azure Synapse Analytics, Azure Data Factory, Azure File Storage. 
 
 
-
 # **Metodología de trabajo**
 
 Utilizaremos la metodología ágil Scrum para la gestión del proyecto. Tendremos reuniones diarias de seguimiento, asignaremos roles y responsabilidades a cada miembro del equipo y nos apoyaremos en herramientas de gestión de proyectos como Jira.
@@ -110,6 +109,8 @@ Documentación de instalación y uso.
 
 Realizaremos un análisis detallado de los datos sísmicos disponibles, incluyendo metadatos como fuentes, confiabilidad, representación de cada columna, tipos de datos, método de adquisición y fechas de adquisición y actualización.
 
+Se reorganizan las variables, se depuran las bases se crea una base nueva unificada y se aloja en el DataWare House en Synapse Analytics. La base se autoalimenta con la nueva información sismica.
+
 # Github Proyecto: 
 
 https://github.com/Loutrec2001/Proyecto-Final.git
@@ -118,15 +119,27 @@ https://github.com/Loutrec2001/Proyecto-Final.git
 
 https://docs.google.com/presentation/d/1yftWE6cM3cVsvGFkl_Do_KXYw_7c3Ty8qFXDasGT68I/edit?usp=sharing
 
+# Página Web de la Aplicación
+
+https://graceb2b.com/quakealert/
+
 # Google Colab
 
 https://colab.research.google.com/drive/1whjtXBgahRkZjdIBZhuaswbKpxfXwNuZ#scrollTo=TnwmcuRvhW7U
 
+# Video Presentación Final
+
+https://youtu.be/d51wHbBBlXQ
+
+# Codigo Machine Learning y Notificaciones Telegram, Whatsapp y App
+
+https://github.com/Kevinbonilla1993/ProyectoFinal.git
 
 ## Integrantes del equipo
 
-* Ana Lucia Muzzo Rangil
-* Edward E. Guzmán González
-* Israel Andrés Nieves
-* Jose Gabriel Casanova
-* Kevin Bonilla.
+* Ana Lucia Muzzo Rangil - Data Analyst
+* Edward E. Guzmán González - Data Scientist
+* Israel Andrés Nieves - Data Scientist
+* Jose Gabriel Casanova - Data Analyst
+* Kevin Bonilla - Data Engineer 
+
